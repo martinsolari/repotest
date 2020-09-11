@@ -12,6 +12,8 @@ Shrek
 
 Contratiempo
 
+Karate kid
+
 ## Peliculas no tan cool
 
 E.T.
