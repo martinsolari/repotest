@@ -6,7 +6,7 @@ Indiana Jones
 
 Star Wars
 
-El Señor de los Anillos
+El Señor de los Anillos - La comunidad del anillo
 
 Shrek
 
