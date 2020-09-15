@@ -14,7 +14,7 @@
 
 - Contratiempo
 
-- Karate kid
+- Karate kid 2
 
 ## Peliculas no tan cool
 
