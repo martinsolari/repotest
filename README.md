@@ -1,21 +1,21 @@
 # Películas favoritas
 
--Volver al Futuro
+- Volver al Futuro
 
--Indiana Jones
+- Indiana Jones
 
--Star Wars
+- Star Wars
 
--El Señor de los Anillos - La comunidad del anillo
+- El Señor de los Anillos - La comunidad del anillo
 
--El Señor de los Anillos - El Retorno del Rey
+- El Señor de los Anillos - El Retorno del Rey
 
--Shrek
+- Shrek
 
--Contratiempo
+- Contratiempo
 
--Karate kid
+- Karate kid
 
 ## Peliculas no tan cool
 
--E.T.
+- E.T.
