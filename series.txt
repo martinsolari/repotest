@@ -1,3 +1,7 @@
 Breaking Bad
 Peaky Blinders
+<<<<<<< HEAD
 Vikings 
+=======
+Rick and Morty
+>>>>>>> 601c142ee3e8e4be1710786263ff17392e4bb57b
