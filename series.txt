@@ -4,4 +4,9 @@ Peaky Blinders
 Vikings 
 =======
 Rick and Morty
+<<<<<<< HEAD
 >>>>>>> 601c142ee3e8e4be1710786263ff17392e4bb57b
+=======
+Black Mirror
+House
+>>>>>>> fe2bebe40698e1d164a2d9a1c71a50c8f284c9bc
